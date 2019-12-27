@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Emilfs\\Downloads\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "C:\\Users\\Emilfs\\Downloads\\Test\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Emilfs\\Downloads\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\Emilfs\\Downloads\\Test\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    }
+]

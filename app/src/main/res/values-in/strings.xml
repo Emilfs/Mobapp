@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bookit</string>
+    <string name="navigation_drawer_open">Buka Menu Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Menu Navigasi</string>
+    <string name="nav_header_title">Emil Farisan Singgih</string>
+    <string name="nav_header_subtitle">emil.farisan@gmail.com</string>
+    <string name="nav_header_desc">Header Navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="month">Bulan Ini</string>
+
+    <string name="menu_home">Ringkasan</string>
+    <string name="menu_gallery">Riwayat</string>
+    <string name="menu_slideshow">Tambah Pengeluaran/Pemasukan</string>
+    <string name="amountInput">Jumlah</string>
+    <string name="isExpenses">Pengeluaran</string>
+    <string name="isIncome">Pemasukan</string>
+    <string name="addPageButton">Kirim</string>
+    <string name="lastTransText">Transaksi Terakhir</string>
+
+
+</resources>

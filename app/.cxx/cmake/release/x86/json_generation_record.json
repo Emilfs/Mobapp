@@ -1,0 +1,42 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON C:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json due to:"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json C:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json file is not present, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file C:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86\\build_command.txt, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Emilfs\\Downloads\\Test\\app\n-BC:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86\n-DANDROID_ABI\u003dx86\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Emilfs\\Downloads\\Test\\app\\build\\intermediates\\cmake\\release\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe\n-GAndroid Gradle - Ninja\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : C:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Emilfs\\Downloads\\Test\\app\n-BC:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86\n-DANDROID_ABI\u003dx86\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Emilfs\\Downloads\\Test\\app\\build\\intermediates\\cmake\\release\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe\n-GAndroid Gradle - Ninja\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process C:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe with arguments {-HC:\\Users\\Emilfs\\Downloads\\Test\\app -BC:\\Users\\Emilfs\\Downloads\\Test\\app\\.cxx\\cmake\\release\\x86 -DANDROID_ABI\u003dx86 -DANDROID_PLATFORM\u003dandroid-16 -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Emilfs\\Downloads\\Test\\app\\build\\intermediates\\cmake\\release\\obj\\x86 -DCMAKE_BUILD_TYPE\u003dRelease -DANDROID_NDK\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944 -DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\android.toolchain.cmake -DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Emilfs\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe -GAndroid Gradle - Ninja}\n-- Check for working C compiler: C:/Users/Emilfs/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\n-- Check for working C compiler: C:/Users/Emilfs/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\n-- Detecting C compiler ABI info\n-- Detecting C compiler ABI info - done\n-- Detecting C compile features\n-- Detecting C compile features - done\n-- Check for working CXX compiler: C:/Users/Emilfs/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\n-- Check for working CXX compiler: C:/Users/Emilfs/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\n-- Detecting CXX compiler ABI info\n-- Detecting CXX compiler ABI info - done\n-- Detecting CXX compile features\n-- Detecting CXX compile features - done\n-- Configuring incomplete, errors occurred!\nSee also \"C:/Users/Emilfs/Downloads/Test/app/.cxx/cmake/release/x86/CMakeFiles/CMakeOutput.log\".\n\nCMake Error at CMakeLists.txt:13 (add_library):\n  Syntax error in cmake code at\n\n    C:/Users/Emilfs/Downloads/Test/app/CMakeLists.txt:20\n\n  when parsing string\n\n    src\\main\\java\\com\\example\\test\\ui\\main\\math-operation.cpp\n\n  Invalid character escape \u0027\\m\u0027.\n\n\n"
+  }
+]

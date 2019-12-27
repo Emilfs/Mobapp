@@ -1,0 +1,12 @@
+CMake Error at CMakeLists.txt:13 (add_library):
+  Syntax error in cmake code at
+
+    C:/Users/Emilfs/Downloads/Test/app/CMakeLists.txt:20
+
+  when parsing string
+
+    src\main\java\com\example\test\ui\main\math-operation.cpp
+
+  Invalid character escape '\m'.
+
+
