@@ -1284,6 +1284,7 @@ id parent
 id parentPanel
 id parent_matrix
 id percent
+id permissionButton
 id pin
 id progress_circular
 id progress_horizontal

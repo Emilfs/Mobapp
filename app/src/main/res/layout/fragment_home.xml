@@ -52,14 +52,14 @@
 
     <TableLayout
         android:id="@+id/tableLayout"
-        android:layout_width="408dp"
-        android:layout_height="246dp"
+        android:layout_width="414dp"
+        android:layout_height="158dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintHorizontal_bias="0.666"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/monthlyStatus"
-        app:layout_constraintVertical_bias="0.847">
+        app:layout_constraintVertical_bias="0.569">
 
         <TableRow
             android:layout_width="match_parent"
@@ -131,10 +131,10 @@
         android:text="Click for Notification"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.845"
+        app:layout_constraintHorizontal_bias="0.486"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.077" />
+        app:layout_constraintVertical_bias="0.874" />
 
     <TextView
         android:id="@+id/tv_jni_result"
